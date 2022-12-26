@@ -10,8 +10,13 @@ Tests use a fork of the mainnet.
 
 # Commands
 
-```shell
-run mainnet fork tests  - ```npx hardhat test --network hardhat```
-run forked node  - ```npx hardhat node --network hardhat```
 
+run mainnet fork tests 
+```js 
+npx hardhat test --network hardhat
 ```
+run forked node 
+```js
+npx hardhat node --network hardhat
+```
+
